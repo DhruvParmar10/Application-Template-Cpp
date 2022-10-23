@@ -1,0 +1,6 @@
+C:\Users\Dhando\source\repos\ModernSignin\ModernSignin\x64\Debug\ModernSignin.vcxproj.AssemblyReference.cache
+C:\Users\Dhando\source\repos\ModernSignin\ModernSignin\x64\Debug\ModernSignin.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Dhando\source\repos\ModernSignin\ModernSignin\x64\Debug\ModernSignin.MyForm.resources
+C:\Users\Dhando\source\repos\ModernSignin\ModernSignin\x64\Debug\ModernSignin.vcxproj.GenerateResource.cache
+C:\Users\Dhando\source\repos\ModernSignin\ModernSignin\x64\Debug\ModernSignin.RegisterForm.resources
+C:\Users\Dhando\source\repos\ModernSignin\ModernSignin\x64\Debug\ModernSignin.Main.resources

@@ -1,0 +1,271 @@
+/* ADD YOUR OUR API
+   THIS IS JUST A TEMPLETE YOU CAN PRACTICE ON THIS AS WELL
+    GOODLUCK!
+*/
+
+{
+  "status": "ok",
+  "totalResults": 65,
+  "articles": [
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Zahra Tayeb",
+      "title": "Buckle in for a brutal free-fall in home prices and US housing is in a massive bubble, experts say. Here's how bad Jeremy Siegel, Paul Krugman and 5 others think it could get. - Yahoo Finance",
+      "description": "\"There's going to be a coast-to-coast downturn in the housing market. It's going to be brutal. No part of the market is immune,\" a Moody's economist said.",
+      "url": "https://markets.businessinsider.com/news/stocks/home-prices-housing-crash-fall-jeremy-siegel-paul-krugman-bubble-2022-10",
+      "urlToImage": "https://i.insider.com/63515d6f50acbb0019ddbcdb?width=1200&format=jpeg",
+      "publishedAt": "2022-10-23T09:00:00Z",
+      "content": "The alarm bell is already ringing for American homeowners, as surging mortgage rates scare away buyers and the slump in the US housing market is only going to get worse, experts say.\r\nThe signs of st� [+4589 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Travis Clark",
+      "title": "Mark Zuckerberg should make Facebook 'Facebook' again - Business Insider",
+      "description": "Staring down the barrel of a potential recession, Meta should be focused on growing engagement and revenue for Instagram, Facebook, and WhatsApp.",
+      "url": "https://www.businessinsider.com/mark-zuckerberg-should-dial-down-metaverse-grow-facebook-instagram-whatsapp-2022-10",
+      "urlToImage": "https://i.insider.com/6352b8fbffcac3001876b847?width=1200&format=jpeg",
+      "publishedAt": "2022-10-23T06:00:14Z",
+      "content": "Meta, the company formerly known as Facebook, should start focusing on making Facebook Facebook again.\r\nOver the past year, CEO Mark Zuckerberg has zeroed in on his passion project: the metaverse. It� [+4734 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bitcoin.com"
+      },
+      "author": "Kevin Helms",
+      "title": "Tesla CEO Elon Musk Says Recession Could Last Until Spring 2024 � Economics Bitcoin News - Bitcoin News",
+      "description": "Tesla CEO Elon Musk expects a global recession to last until the spring of 2024. Musk believes that North America�s in pretty good health.",
+      "url": "https://news.bitcoin.com/tesla-ceo-elon-musk-says-global-recession-could-last-until-spring-2024/",
+      "urlToImage": "https://static.news.bitcoin.com/wp-content/uploads/2022/10/elon-musk-recession.jpg",
+      "publishedAt": "2022-10-22T23:38:51Z",
+      "content": "Tesla and Spacex CEO Elon Musk expects a global recession to last until the spring of 2024. Musk added that his two companies are in good positions but many others are not. �Recessions do have a silv� [+3028 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Salon"
+      },
+      "author": "Ashlie D. Stevens",
+      "title": "�My price will only go up�: Collectors bet on nostalgia as they resell McDonald's Adult Happy Meals - Salon",
+      "description": "An Adult Happy Meal costs about $10.79. The accompanying toys are being sold in $150 collector's packs on eBay",
+      "url": "https://www.salon.com/2022/10/22/my-price-will-only-go-up-collectors-bet-on-nostalgia-as-they-resell-mcdonalds-adult-happy-meals/",
+      "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2022/10/adult_happy_meal_toys_mcdonalds.jpg",
+      "publishedAt": "2022-10-22T21:30:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WLS-TV"
+      },
+      "author": null,
+      "title": "USPS letter carrier sexually assaulted, robbed of postal truck on South Pulaski in Little Village, Chicago police say - WLS-TV",
+      "description": "A letter carrier was sexually assaulted and robbed of her postal truck Saturday morning in Little Village, Chicago police said.",
+      "url": "https://abc7chicago.com/usps-letter-carrier-attacked-postal-truck-stolen-worker-assaulted/12361650/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/12361862_usps-truck.png?w=1600",
+      "publishedAt": "2022-10-22T21:04:01Z",
+      "content": "CHICAGO (WLS) -- A 28-year-old female USPS letter carrier was the target of a criminal sexual assault Saturday morning around 9:15 a.m. in the 2800 block of South Pulaski Road in Chicago's Little Vil� [+1254 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Debby Wu",
+      "title": "TSMC Said to Suspend Work for Chinese Chip Startup Amid US Curbs - Bloomberg",
+      "description": "Taiwan Semiconductor Manufacturing Co. has suspended production of advanced silicon for Chinese startup Biren Technology to ensure compliance with US regulations, according to a person familiar with the matter.",
+      "url": "https://www.bloomberg.com/news/articles/2022-10-22/tsmc-said-to-suspend-work-for-chinese-chip-startup-amid-us-curbs",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipeUr8.OUjgg/v1/1200x800.jpg",
+      "publishedAt": "2022-10-22T17:44:21Z",
+      "content": "Taiwan Semiconductor Manufacturing Co. has suspended production of advanced silicon for Chinese startup \r\nBiren Technology to ensure compliance with US regulations, according to a person familiar wit� [+472 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Benzinga"
+      },
+      "author": "Chris Katje",
+      "title": "How Warren Buffett Just Became More Heavily Invested In 'Rat Poison' Cryptocurrency - Nu Holdings (NYSE:N - Benzinga",
+      "description": "Known as the �Oracle of Omaha� and by other nicknames, legendary investor Warren Buffett is a man of many names. Buffett also gives out nicknames from time to time, including calling leading cryptocurrency Bitcoin (CRYPTO: BTC) �rat poison squared.�",
+      "url": "https://www.benzinga.com/markets/cryptocurrency/22/10/29365576/how-warren-buffett-just-became-more-heavily-invested-in-rat-poison-cryptocurrency",
+      "urlToImage": "https://cdn.benzinga.com/files/images/story/2022/10/22/shutterstock_1891559017.jpg?width=1200&height=800&fit=crop",
+      "publishedAt": "2022-10-22T17:14:36Z",
+      "content": "Known as the Oracle of Omaha and by other nicknames, legendary investor Warren Buffett is a man of many names. Buffett also gives out nicknames from time to time, including calling leading cryptocurr� [+3188 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Anna Bahney",
+      "title": "Home prices are finally falling. But how low will they go? - CNN",
+      "description": "The US housing market is in the midst of a major shift. After two years of stratospheric price appreciation, home prices have peaked and are on their way back down.",
+      "url": "https://www.cnn.com/2022/10/22/homes/us-home-prices-falling/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221021130022-housing-market-austin-tx-restricted.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-10-22T16:25:00Z",
+      "content": "The US housing market is in the midst of a major shift. After two years of stratospheric price appreciation, home prices have peaked and are on their way back down. \r\nBut what homebuyers and homeowne� [+3989 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Nasdaq halts IPOs of small Chinese companies as it probes stock rallies - Reuters",
+      "description": "Nasdaq Inc <a href=\"https://www.reuters.com/companies/NDAQ.O\" target=\"_blank\">(NDAQ.O)</a> has put the brakes on initial public offering (IPO) preparations of at least four small Chinese companies while it investigates short-lived stock rallies of such firms �",
+      "url": "https://www.reuters.com/markets/europe/nasdaq-halts-ipos-small-chinese-companies-it-probes-stock-rallies-2022-10-22/",
+      "urlToImage": "https://www.reuters.com/resizer/FOdOiYfi6j134EW7kZNw7UQjYxU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RLVQVLNYWRIPNOPBE6HPB2HZDE.jpg",
+      "publishedAt": "2022-10-22T15:39:00Z",
+      "content": "NEW YORK, Oct 22 (Reuters) - Nasdaq Inc (NDAQ.O) has put the brakes on initial public offering (IPO) preparations of at least four small Chinese companies while it investigates short-lived stock rall� [+4369 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Interesting Engineering"
+      },
+      "author": "Loukia Papadopoulos",
+      "title": "'Icon of the Seas': World's largest cruise ship unveiled - Interesting Engineering",
+      "description": "Royal Caribbean International has revealed illustrations of the highly anticipated Icon of the Seas, the world�s largest cruise ship. Among its many features, the cruise ship will boast a beach retreat, a resort escape and a theme park adventure.",
+      "url": "https://interestingengineering.com/transportation/worlds-largest-cruise-ship-unveiled",
+      "urlToImage": "https://images.interestingengineering.com/1200x675/2022/10/22/image/jpeg/fuMWzDR9AOpJZhqNBhIeYIuqdNj03D11XUfauNAA.jpg",
+      "publishedAt": "2022-10-22T15:09:24Z",
+      "content": "With each new ship, we raise the bar in the travel industry while enhancing what our guests know and love, said Jason Liberty, president and CEO, Royal Caribbean Group. \r\nFrom the moment they step on� [+1371 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Denny Jacob",
+      "title": "Apple, Amazon, McDonald's Headline Busy Earnings Week - The Wall Street Journal",
+      "description": "Nearly a third of the S&P 500 is set to report their quarterly results, including Exxon, General Motors and Boeing",
+      "url": "https://www.wsj.com/articles/apple-amazon-mcdonalds-headline-busy-earnings-week-11666406094",
+      "urlToImage": "https://images.wsj.net/im-649372/social",
+      "publishedAt": "2022-10-22T15:00:00Z",
+      "content": "Amazon.com Inc., Apple Inc. and Meta Platforms Inc. are among the tech heavyweights featured in a packed week of earnings that investors will probe for indicators about the \r\nbroader economy.Other te� [+337 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "OregonLive"
+      },
+      "author": "Kristine de Leon | The Oregonian/OregonLive",
+      "title": "Kroger-Albertsons merger raises fears of store closures; here�s where the chains compete in Oregon - OregonLive",
+      "description": "The $24.6 billion sale would put Albertsons, Safeway, Fred Meyer and QFC under one corporate umbrella.",
+      "url": "https://www.oregonlive.com/business/2022/10/kroger-albertsons-merger-raises-fears-of-store-closures-heres-where-the-chains-compete-in-oregon.html",
+      "urlToImage": "https://www.oregonlive.com/resizer/8CmydJVVCwC_JlK1yxFqig0CBBc=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/O2OJGFCWLZHGTIIPT53CWKWIBE.jpg",
+      "publishedAt": "2022-10-22T14:00:00Z",
+      "content": "The 2002 closure of the Fred Meyer grocery store serving Rockwood was a blow to the Gresham neighborhood, leaving a hole in its center and one less option for groceries.\r\nThe next hit came in 2015, w� [+6813 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Abha Bhattarai",
+      "title": "GDP will likely show U.S. economy grew in the third quarter, despite inflation - The Washington Post",
+      "description": "GDP, the broadest measure of economic activity, is expected to have risen roughly 2.9 percent between July and September, according to a tracker from the Federal Reserve Bank of Atlanta.",
+      "url": "https://www.washingtonpost.com/business/2022/10/22/gdp-growth-economy-inflation/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PH6C7KWPXDZVYPRREATMRR6PJ4.jpg&w=1440",
+      "publishedAt": "2022-10-22T13:00:00Z",
+      "content": "Comment on this story\r\nThe U.S. economy is expected to have grown robustly in a sharp rebound from the first half of the year, but most Americans are unlikely to notice anything about the turnaround.� [+9114 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Kenneth Squire",
+      "title": "Two potential opportunities for value creation emerge as Starboard takes a stake in Salesforce - CNBC",
+      "description": "Activist Starboard Value recently revealed a stake in Salesforce. Here�s what could be next.",
+      "url": "https://www.cnbc.com/2022/10/22/starboard-takes-a-stake-in-salesforce-heres-what-could-be-next-for-the-tech-giant.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/103428249-GettyImages-545163593.jpg?v=1666442275&w=1920&h=1080",
+      "publishedAt": "2022-10-22T12:37:55Z",
+      "content": "Business: Salesforce is a global leader in customer relationship management (CRM) technology that brings companies and their clients together. It was founded in 1999 and is a pioneer in the cloud sof� [+5200 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Katie Teague",
+      "title": "SSI Beneficiaries Will Get Their COLA Increase in December. Here's Why - CNET",
+      "description": "Supplemental Security Income recipients won't have to wait until 2023 to get their first check with their payment increase. We'll explain.",
+      "url": "https://www.cnet.com/personal-finance/ssi-beneficiaries-will-get-their-cola-increase-in-december-heres-why/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/ae1184df5e11cbb467259c73734d4b48e7746ed0/hub/2021/01/05/4c1c6cc0-4ef9-4a41-9198-ab06398c944d/39-2021-cash-money-stimulus-bill-600-dollars-check-americans-congress-signed-law-direct-deposit-mail.jpg?auto=webp&fit=crop&height=630&width=1200",
+      "publishedAt": "2022-10-22T12:15:02Z",
+      "content": "Social Security and Supplemental Security Income beneficiaries are getting an 8.7% cost of living increase (COLA), starting in January of 2023. However, SSI recipients will get their first increased � [+2192 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Nancy Sarnoff",
+      "title": "�Unhealthy and unsustainable�: Homebuyers aren�t buying and homebuilders aren�t building in the face of untamed mortgage rates - Yahoo Finance",
+      "description": "Buyers willing to brave the current market are turning to adjustable-rate mortgages in order to keep costs under control.",
+      "url": "https://finance.yahoo.com/news/unhealthy-unsustainable-homebuyers-aren-t-120000234.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/IIgiBXxpln0.EQ8B3dZuJg--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/5066f188445cef237b724b9e94c5f2d1",
+      "publishedAt": "2022-10-22T12:00:00Z",
+      "content": "Unhealthy and unsustainable: Homebuyers arent buying and homebuilders arent building in the face of untamed mortgage rates\r\nU.S. mortgage rates crept up once again this week as demand for home loans � [+5310 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": "Investor's Business Daily",
+      "title": "S&P 500 Biotech Giant Vertex Leads 5 Stocks Showing Strength | Investor's Business Daily - Investor's Business Daily",
+      "description": "Vertex and LNG play Cheniere Energy are setting up bullishly.",
+      "url": "https://www.investors.com/news/top-lng-producer-and-sp-500-giant-lead-5-stocks-showing-strength/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2018/08/TECH1-biotechipo-081718-adobe.jpg",
+      "publishedAt": "2022-10-22T12:00:00Z",
+      "content": "Your stocks to watch for the week ahead are Cheniere Energy (LNG), S&amp;P 500 biotech giant Vertex Pharmaceuticals (VRTX), Cardinal Health (CAH), Steel Dynamics (STLD) and Genuine Parts (GPC).\r\nXWhi� [+8255 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "George Stahl",
+      "title": "What CEOs Are Saying: The Fed 'Should Look Out the Front Windshield' - The Wall Street Journal",
+      "description": "Leaders from Tesla, IBM, Goldman Sachs and others discuss the economic outlook, Fed policy and business trends",
+      "url": "https://www.wsj.com/articles/what-ceos-are-saying-the-fed-should-look-out-the-front-windshield-11666401863",
+      "urlToImage": "https://images.wsj.net/im-649490/social",
+      "publishedAt": "2022-10-22T12:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Crypto-news-flash.com"
+      },
+      "author": "Bhushan Akolkar",
+      "title": "Elon Musk supports Ripple (XRP) and Brad Garlinghouse � �We will be on the right side of history� - Crypto News Flash",
+      "description": "Coming to Ripple CEO's support, Elon Musk showed his support for XRP and the criticism of SEC in two words, stating �No Way\".",
+      "url": "https://www.crypto-news-flash.com/elon-musk-supports-ripple-xrp-and-brad-garlinghouse-we-will-be-on-the-right-side-of-history/",
+      "urlToImage": "https://www.crypto-news-flash.com/wp-content/uploads/2022/04/elon-musk-6222396__340.webp",
+      "publishedAt": "2022-10-22T11:48:55Z",
+      "content": "<ul><li>Amid the recent victory in the case, Ripple�s counsel said that it was well worth the fight.</li><li>Ripple CEO Brad Garlinghouse slammed the SEC, Elon Musk extended his support.</li></ul>\r\nD� [+2532 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Caroline Hopkins",
+      "title": "Helium shortage: Doctors are worried that running out of the element could threaten MRIs - Yahoo News",
+      "description": "The world is running out of helium. Helium is the only element cold enough to keep MRI machines cool enough to function. Without it, doctors lose a valuable ...",
+      "url": "https://news.yahoo.com/helium-shortage-doctors-worried-running-110000674.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/4PAPzXy1Eu42S9yfyHyfeg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzI-/https://media.zenfs.com/en/nbc_news_122/e809d2da4ace9533d390a4cb270f1a99",
+      "publishedAt": "2022-10-22T11:00:00Z",
+      "content": "A global helium shortage has doctors worried about one of the natural gass most essential, and perhaps unexpected, uses: MRIs.\r\nStrange as it sounds, the lighter-than-air element that gives balloons � [+6419 chars]"
+    }
+  ]
+}
